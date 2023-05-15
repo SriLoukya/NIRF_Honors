@@ -1,0 +1,914 @@
+Clg_Name,Year,Branch,Category,Open_Rank,Close_Rank
+nit-calicut,2022,Civil Engineering,OPEN,49527,36937
+nit-calicut,2022,Civil Engineering,EWS,54761,5705
+nit-calicut,2022,Civil Engineering,OBC NCL,18377,11538
+nit-calicut,2022,Civil Engineering,SC,20918,5118
+nit-calicut,2022,Civil Engineering,ST,15395,1133
+nit-calicut,2022,Electrical and Electronics Engineering,OPEN,25305,14988
+nit-calicut,2022,Electrical and Electronics Engineering,EWS,58558,2392
+nit-calicut,2022,Electrical and Electronics Engineering,OBC NCL,8203,4881
+nit-calicut,2022,Electrical and Electronics Engineering,SC,12668,2454
+nit-calicut,2022,Electrical and Electronics Engineering,ST,19064,819
+nit-calicut,2022,Electronics and Communication Engineering,OPEN,17312,9044
+nit-calicut,2022,Electronics and Communication Engineering,EWS,29302,1389
+nit-calicut,2022,Electronics and Communication Engineering,OBC NCL,5772,2926
+nit-calicut,2022,Electronics and Communication Engineering,SC,7062,1356
+nit-calicut,2022,Electronics and Communication Engineering,ST,9237,306
+nit-calicut,2022,Mechanical Engineering,OPEN,32212,23029
+nit-calicut,2022,Mechanical Engineering,EWS,69916,3530
+nit-calicut,2022,Mechanical Engineering,OBC NCL,11802,7418
+nit-calicut,2022,Mechanical Engineering,SC,17148,3659
+nit-calicut,2022,Mechanical Engineering,ST,16174,1063
+nit-calicut,2022,Production Engineering,OPEN,50741,35771
+nit-calicut,2022,Production Engineering,OBC NCL,18892,11823
+nit-calicut,2022,Production Engineering,SC,23499,6433
+nit-calicut,2022,Architecture,OPEN,342,491
+nit-calicut,2022,Architecture,OBC NCL,169,305
+nit-calicut,2022,Architecture,SC,108,89
+nit-calicut,2022,Computer Science and Engineering,OPEN,10956,4521
+nit-calicut,2022,Computer Science and Engineering,EWS,13499,705
+nit-calicut,2022,Computer Science and Engineering,OBC NCL,4032,1242
+nit-calicut,2022,Computer Science and Engineering,SC,2927,361
+nit-calicut,2022,Computer Science and Engineering,ST,3630,128
+nit-calicut,2022,Biotechnology Engineering,OPEN,49187,40636
+nit-calicut,2022,Biotechnology Engineering,EWS,32720,5931
+nit-calicut,2022,Biotechnology Engineering,OBC NCL,17636,12464
+nit-calicut,2022,Biotechnology Engineering,SC,9407,5688
+nit-calicut,2022,Biotechnology Engineering,ST,27641,1718
+nit-calicut,2022,Chemical Engineering,OPEN,42052,29246
+nit-calicut,2022,Chemical Engineering,EWS,68456,4569
+nit-calicut,2022,Chemical Engineering,OBC NCL,14596,9683
+nit-calicut,2022,Chemical Engineering,SC,23514,4968
+nit-calicut,2022,Chemical Engineering,ST,12843,1636
+nit-calicut,2022,Engineering Physics,OPEN,36882,21125
+nit-calicut,2022,Engineering Physics,EWS,21102,3764
+nit-calicut,2022,Engineering Physics,OBC NCL,14826,7486
+nit-calicut,2022,Engineering Physics,SC,23413,5170
+nit-calicut,2022,Engineering Physics,ST,18969,1867
+nit-calicut,2022,Material Science and Engineering,OPEN,51523,40391
+nit-calicut,2022,Material Science and Engineering,OBC NCL,18544,12233
+nit-calicut,2022,Material Science and Engineering,SC,25087,5341
+nit-calicut,2022,Material Science and Engineering,ST,30905,1971
+nit-manipur,2022,Civil Engineering,Open,202059,53637
+nit-manipur,2022,Civil Engineering,OBC-NCL,75390,16306
+nit-manipur,2022,Computer Science and Engineering,Open,186047,24168
+nit-manipur,2022,Computer Science and Engineering,OBC-NCL,76152,8156
+nit-manipur,2022,Computer Science and Engineering,SC,14590,3389
+nit-manipur,2022,Computer Science and Engineering,ST,6054,1167
+nit-manipur,2022,Electrical Engineering,Open,258593,44759
+nit-manipur,2022,Electrical Engineering,OBC-NCL,113215,13982
+nit-manipur,2022,Electrical Engineering,SC,17352,6506
+nit-manipur,2022,Electrical Engineering,ST,11064,2429
+nit-manipur,2022,Electronics and Communication Engineering,Open,299170,34632
+nit-manipur,2022,Electronics and Communication Engineering,OBC-NCL,134666,10525
+nit-manipur,2022,Electronics and Communication Engineering,ST,11521,2044
+nit-manipur,2022,Mechanical Engineering,Open,270606,50614
+nit-manipur,2022,Mechanical Engineering,OBC-NCL,138829,15543
+nit-manipur,2022,Mechanical Engineering,ST,8966,2745
+nit-delhi,2022,Civil Engineering,OPEN,46544,36473
+nit-delhi,2022,Civil Engineering,EWS,9780,5393
+nit-delhi,2022,Civil Engineering,OBC NCL,17156,11319
+nit-delhi,2022,Civil Engineering,SC,5883,2862
+nit-delhi,2022,Computer Science and Engineering,OPEN,13750,8954
+nit-delhi,2022,Computer Science and Engineering,EWS,4000,1403
+nit-delhi,2022,Computer Science and Engineering,OBC NCL,7250,3127
+nit-delhi,2022,Computer Science and Engineering,SC,2024,990
+nit-delhi,2022,Computer Science and Engineering,ST,506,415
+nit-delhi,2022,Electronics and Communication Engineering,OPEN,19406,16068
+nit-delhi,2022,Electronics and Communication Engineering,EWS,6207,2238
+nit-delhi,2022,Electronics and Communication Engineering,OBC NCL,9445,5128
+nit-delhi,2022,Electronics and Communication Engineering,SC,4526,2365
+nit-delhi,2022,Electronics and Communication Engineering,ST,1635,624
+nit-delhi,2022,Electrical and Electronics Engineering,OPEN,30176,21413
+nit-delhi,2022,Electrical and Electronics Engineering,EWS,7839,3370
+nit-delhi,2022,Electrical and Electronics Engineering,OBC NCL,12935,7222
+nit-delhi,2022,Electrical and Electronics Engineering,SC,6323,3519
+nit-delhi,2022,Electrical and Electronics Engineering,ST,2527,935
+manit-bhopal,2022,Chemical Engineering,OPEN,42115,35282
+manit-bhopal,2022,Chemical Engineering,EWS,6652,5352
+manit-bhopal,2022,Chemical Engineering,OBC NCL,15584,12410
+manit-bhopal,2022,Chemical Engineering,SC,6731,6223
+manit-bhopal,2022,Chemical Engineering,ST,3108,2139
+manit-bhopal,2022,Civil Engineering,OPEN,47546,42069
+manit-bhopal,2022,Civil Engineering,EWS,7795,6265
+manit-bhopal,2022,Civil Engineering,OBC NCL,15994,12588
+manit-bhopal,2022,Civil Engineering,SC,7000,5980
+manit-bhopal,2022,Civil Engineering,ST,3009,1430
+manit-bhopal,2022,Computer Science and Engineering,OPEN,10895,7877
+manit-bhopal,2022,Computer Science and Engineering,EWS,1620,1208
+manit-bhopal,2022,Computer Science and Engineering,OBC NCL,3693,2755
+manit-bhopal,2022,Computer Science and Engineering,SC,2083,1444
+manit-bhopal,2022,Computer Science and Engineering,ST,982,413
+manit-bhopal,2022,Electrical Engineering,OPEN,26067,22508
+manit-bhopal,2022,Electrical Engineering,EWS,4023,3484
+manit-bhopal,2022,Electrical Engineering,OBC NCL,8423,7221
+manit-bhopal,2022,Electrical Engineering,SC,4496,3945
+manit-bhopal,2022,Electrical Engineering,ST,2402,1202
+manit-bhopal,2022,Electronics and Communication Engineering,OPEN,17975,15151
+manit-bhopal,2022,Electronics and Communication Engineering,EWS,2818,2187
+manit-bhopal,2022,Electronics and Communication Engineering,OBC NCL,6537,5228
+manit-bhopal,2022,Electronics and Communication Engineering,SC,2919,2572
+manit-bhopal,2022,Electronics and Communication Engineering,ST,1603,795
+manit-bhopal,2022,Materials Science and Metallurgical Engineering,OPEN,53006,46608
+manit-bhopal,2022,Materials Science and Metallurgical Engineering,EWS,8062,6969
+manit-bhopal,2022,Materials Science and Metallurgical Engineering,OBC NCL,16912,15221
+manit-bhopal,2022,Materials Science and Metallurgical Engineering,SC,7321,6911
+manit-bhopal,2022,Materials Science and Metallurgical Engineering,ST,3598,2844
+manit-bhopal,2022,Mechanical Engineering,OPEN,36528,32509
+manit-bhopal,2022,Mechanical Engineering,EWS,6286,4855
+manit-bhopal,2022,Mechanical Engineering,OBC NCL,13857,10775
+manit-bhopal,2022,Mechanical Engineering,SC,5758,5263
+manit-bhopal,2022,Mechanical Engineering,ST,2950,1942
+manit-bhopal,2022,Planning,OPEN,3018,663
+manit-bhopal,2022,Planning,EWS,555,115
+manit-bhopal,2022,Planning,OBC NCL,4323,437
+manit-bhopal,2022,Planning,SC,760,109
+manit-bhopal,2022,Planning,ST,421,79
+manit-bhopal,2022,Architecture,OPEN,2420,941
+manit-bhopal,2022,Architecture,EWS,589,302
+manit-bhopal,2022,Architecture,OBC NCL,3013,547
+manit-bhopal,2022,Architecture,SC,443,289
+manit-bhopal,2022,Architecture,ST,476,162
+nit-mizoram,2022,Civil Engineering,General,552207,58024
+nit-mizoram,2022,Civil Engineering,ST,19321,2336
+nit-mizoram,2022,Computer Science and Engineering,General,383441,28829
+nit-mizoram,2022,Computer Science and Engineering,OBC,228357,8447
+nit-mizoram,2022,Computer Science and Engineering,SC,66836,3882
+nit-mizoram,2022,Computer Science and Engineering,ST,10162,1428
+nit-mizoram,2022,Electrical and Electronics Engineering,General,857734,46307
+nit-mizoram,2022,Electronics and Communication Engineering,General,743940,40554
+nit-mizoram,2022,Electronics and Communication Engineering,OBC,310551,12031
+nit-mizoram,2022,Mechanical Engineering,General,847546,51976
+nit-agartala,2022,Biotechnology and Biochemical Engineering,Open,210069,57305
+nit-agartala,2022,Biotechnology and Biochemical Engineering,EWS,44363,8727
+nit-agartala,2022,Biotechnology and Biochemical Engineering,SC,21146,7663
+nit-agartala,2022,Biotechnology and Biochemical Engineering,ST,19111,3466
+nit-agartala,2022,Chemical Engineering,Open,181514,52619
+nit-agartala,2022,Chemical Engineering,EWS,56599,7871
+nit-agartala,2022,Chemical Engineering,SC,22105,6846
+nit-agartala,2022,Chemical Engineering,ST,17706,3224
+nit-agartala,2022,Civil Engineering,Open,176713,53270
+nit-agartala,2022,Civil Engineering,EWS,52483,7991
+nit-agartala,2022,Civil Engineering,SC,18995,7536
+nit-agartala,2022,Civil Engineering,ST,6663,2263
+nit-agartala,2022,Computer Science and Engineering,Open,58163,19344
+nit-agartala,2022,Computer Science and Engineering,EWS,15664,2920
+nit-agartala,2022,Computer Science and Engineering,SC,7473,2485
+nit-agartala,2022,Computer Science and Engineering,ST,4931,900
+nit-agartala,2022,Electrical Engineering,Open,106157,38384
+nit-agartala,2022,Electrical Engineering,EWS,33622,6126
+nit-agartala,2022,Electrical Engineering,SC,11012,5621
+nit-agartala,2022,Electrical Engineering,ST,11040,2226
+nit-agartala,2022,Electronics and Communication Engineering,Open,81719,28723
+nit-agartala,2022,Electronics and Communication Engineering,EWS,20640,4688
+nit-agartala,2022,Electronics and Communication Engineering,SC,9456,4097
+nit-agartala,2022,Electronics and Communication Engineering,ST,9669,1622
+nit-agartala,2022,Mechanical Engineering,Open,153958,46244
+nit-agartala,2022,Mechanical Engineering,EWS,46976,7232
+nit-agartala,2022,Mechanical Engineering,SC,17772,6706
+nit-agartala,2022,Mechanical Engineering,ST,13940,2627
+nit-agartala,2022,Electronics and Instrumentation Engineering,Open,116780,37885
+nit-agartala,2022,Electronics and Instrumentation Engineering,EWS,29929,6151
+nit-agartala,2022,Electronics and Instrumentation Engineering,SC,12734,6085
+nit-agartala,2022,Electronics and Instrumentation Engineering,ST,16859,2244
+nit-agartala,2022,Production Engineering,Open,218300,57696
+nit-agartala,2022,Production Engineering,EWS,68823,8627
+nit-agartala,2022,Production Engineering,SC,27307,8440
+nit-agartala,2022,Production Engineering,ST,22901,3419
+nit-durgapur,2022,Civil Engineering,OPEN,41294,41543
+nit-durgapur,2022,Civil Engineering,EWS,9112,6206
+nit-durgapur,2022,Civil Engineering,OBC NCL,23416,12572
+nit-durgapur,2022,Civil Engineering,SC,7175,5353
+nit-durgapur,2022,Civil Engineering,ST,6151,1311
+nit-durgapur,2022,Electrical Engineering,OPEN,19712,21597
+nit-durgapur,2022,Electrical Engineering,EWS,6935,3415
+nit-durgapur,2022,Electrical Engineering,OBC NCL,12634,6650
+nit-durgapur,2022,Electrical Engineering,SC,2960,3239
+nit-durgapur,2022,Electrical Engineering,ST,2199,887
+nit-durgapur,2022,Electronics and Communication Engineering,OPEN,15843,14177
+nit-durgapur,2022,Electronics and Communication Engineering,EWS,5189,2154
+nit-durgapur,2022,Electronics and Communication Engineering,OBC NCL,9600,4052
+nit-durgapur,2022,Electronics and Communication Engineering,SC,2108,1881
+nit-durgapur,2022,Electronics and Communication Engineering,ST,2106,710
+nit-durgapur,2022,Mechanical Engineering,OPEN,31048,31045
+nit-durgapur,2022,Mechanical Engineering,EWS,7596,4703
+nit-durgapur,2022,Mechanical Engineering,OBC NCL,21850,9937
+nit-durgapur,2022,Mechanical Engineering,SC,4784,4740
+nit-durgapur,2022,Mechanical Engineering,ST,4493,1504
+nit-durgapur,2022,Biotechnology Engineering,OPEN,48765,48341
+nit-durgapur,2022,Biotechnology Engineering,EWS,12544,7574
+nit-durgapur,2022,Biotechnology Engineering,OBC NCL,31055,15159
+nit-durgapur,2022,Biotechnology Engineering,SC,7325,7156
+nit-durgapur,2022,Biotechnology Engineering,ST,7011,2755
+nit-durgapur,2022,Computer Science and Engineering,OPEN,11092,8689
+nit-durgapur,2022,Computer Science and Engineering,EWS,2811,1261
+nit-durgapur,2022,Computer Science and Engineering,OBC NCL,7688,2599
+nit-durgapur,2022,Computer Science and Engineering,SC,1583,971
+nit-durgapur,2022,Computer Science and Engineering,ST,1285,213
+nit-durgapur,2022,Chemical Engineering,OPEN,35089,36501
+nit-durgapur,2022,Chemical Engineering,EWS,9742,5503
+nit-durgapur,2022,Chemical Engineering,OBC NCL,22250,11933
+nit-durgapur,2022,Chemical Engineering,SC,5129,6069
+nit-durgapur,2022,Chemical Engineering,ST,6984,1899
+nit-durgapur,2022,Metallurgical and Materials Engineering,OPEN,44601,45818
+nit-durgapur,2022,Metallurgical and Materials Engineering,EWS,10620,7116
+nit-durgapur,2022,Metallurgical and Materials Engineering,OBC NCL,27029,14390
+nit-durgapur,2022,Metallurgical and Materials Engineering,SC,6833,6918
+nit-durgapur,2022,Metallurgical and Materials Engineering,ST,3277,2468
+nit-kurukshetra,2022,Civil Engineering,Open,47847,39833
+nit-kurukshetra,2022,Civil Engineering,EWS,7654,6064
+nit-kurukshetra,2022,Civil Engineering,OBC-NCL,16201,12302
+nit-kurukshetra,2022,Civil Engineering,SC,8154,5456
+nit-kurukshetra,2022,Civil Engineering,ST,7072,1296
+nit-kurukshetra,2022,Electrical Engineering,Open,25523,19812
+nit-kurukshetra,2022,Electrical Engineering,EWS,5040,3159
+nit-kurukshetra,2022,Electrical Engineering,OBC-NCL,8351,6395
+nit-kurukshetra,2022,Electrical Engineering,SC,5018,3086
+nit-kurukshetra,2022,Electrical Engineering,ST,25951,1070
+nit-kurukshetra,2022,Electronics and Communication Engineering,Open,16390,12864
+nit-kurukshetra,2022,Electronics and Communication Engineering,EWS,2679,1893
+nit-kurukshetra,2022,Electronics and Communication Engineering,OBC-NCL,6470,4269
+nit-kurukshetra,2022,Electronics and Communication Engineering,SC,3233,2345
+nit-kurukshetra,2022,Electronics and Communication Engineering,ST,25522,709
+nit-kurukshetra,2022,Mechanical Engineering,Open,36183,27951
+nit-kurukshetra,2022,Mechanical Engineering,EWS,6135,4405
+nit-kurukshetra,2022,Mechanical Engineering,OBC-NCL,13549,8987
+nit-kurukshetra,2022,Mechanical Engineering,SC,7654,4642
+nit-kurukshetra,2022,Mechanical Engineering,ST,9294,1724
+nit-kurukshetra,2022,Production and Industrial Engineering,Open,49987,40895
+nit-kurukshetra,2022,Production and Industrial Engineering,EWS,8774,6647
+nit-kurukshetra,2022,Production and Industrial Engineering,OBC-NCL,17530,14021
+nit-kurukshetra,2022,Production and Industrial Engineering,SC,8741,6613
+nit-kurukshetra,2022,Information Technology,Open,12136,8722
+nit-kurukshetra,2022,Information Technology,EWS,2382,1349
+nit-kurukshetra,2022,Information Technology,OBC-NCL,5127,2611
+nit-kurukshetra,2022,Information Technology,SC,2146,1510
+nit-kurukshetra,2022,Information Technology,ST,18569,588
+nit-kurukshetra,2022,Computer Engineering,Open,9185,7216
+nit-kurukshetra,2022,Computer Engineering,EWS,2072,1055
+nit-kurukshetra,2022,Computer Engineering,OBC-NCL,4008,2234
+nit-kurukshetra,2022,Computer Engineering,SC,1593,1118
+nit-kurukshetra,2022,Computer Engineering,ST,6907,398
+nit-uttarakhand,2022,Civil Engineering,Open,64225,48474
+nit-uttarakhand,2022,Civil Engineering,EWS,11895,7130
+nit-uttarakhand,2022,Civil Engineering,OBC-NCL,25748,14996
+nit-uttarakhand,2022,Civil Engineering,SC,8381,6056
+nit-uttarakhand,2022,Civil Engineering,ST,5469,1765
+nit-uttarakhand,2022,Computer Science and Engineering,Open,27383,17109
+nit-uttarakhand,2022,Computer Science and Engineering,EWS,4967,2524
+nit-uttarakhand,2022,Computer Science and Engineering,OBC-NCL,9429,5797
+nit-uttarakhand,2022,Computer Science and Engineering,SC,4121,2208
+nit-uttarakhand,2022,Computer Science and Engineering,ST,1590,769
+nit-uttarakhand,2022,Electronics and Communication Engineering,Open,34565,25362
+nit-uttarakhand,2022,Electronics and Communication Engineering,EWS,5358,3956
+nit-uttarakhand,2022,Electronics and Communication Engineering,OBC-NCL,16085,7795
+nit-uttarakhand,2022,Electronics and Communication Engineering,SC,7300,3730
+nit-uttarakhand,2022,Electronics and Communication Engineering,ST,2401,1594
+nit-uttarakhand,2022,Mechanical Engineering,Open,53750,40381
+nit-uttarakhand,2022,Mechanical Engineering,EWS,11690,6218
+nit-uttarakhand,2022,Mechanical Engineering,OBC-NCL,20063,13464
+nit-uttarakhand,2022,Mechanical Engineering,SC,8661,5443
+nit-uttarakhand,2022,Mechanical Engineering,ST,5401,2204
+nit-uttarakhand,2022,Electrical and Electronics Engineering,Open,50189,32920
+nit-uttarakhand,2022,Electrical and Electronics Engineering,EWS,7690,4781
+nit-uttarakhand,2022,Electrical and Electronics Engineering,OBC-NCL,18526,10341
+nit-uttarakhand,2022,Electrical and Electronics Engineering,SC,8962,4291
+nit-uttarakhand,2022,Electrical and Electronics Engineering,ST,7056,1984
+nit-patna,2022,Civil Engineering,OPEN,45220,47354
+nit-patna,2022,Civil Engineering,EWS,7074,7308
+nit-patna,2022,Civil Engineering,OBC NCL,13849,14723
+nit-patna,2022,Civil Engineering,SC,6781,6359
+nit-patna,2022,Civil Engineering,ST,3418,1936
+nit-patna,2022,Computer Science and Engineering,OPEN,15658,13876
+nit-patna,2022,Computer Science and Engineering,EWS,2186,2062
+nit-patna,2022,Computer Science and Engineering,OBC NCL,4817,3918
+nit-patna,2022,Computer Science and Engineering,SC,2392,1937
+nit-patna,2022,Computer Science and Engineering,ST,1443,703
+nit-patna,2022,Electrical Engineering,OPEN,29577,29831
+nit-patna,2022,Electrical Engineering,EWS,4609,4532
+nit-patna,2022,Electrical Engineering,OBC NCL,9205,9296
+nit-patna,2022,Electrical Engineering,SC,4913,4235
+nit-patna,2022,Electrical Engineering,ST,2948,1779
+nit-patna,2022,Electronics and Communication Engineering,OPEN,21820,20111
+nit-patna,2022,Electronics and Communication Engineering,EWS,3302,3096
+nit-patna,2022,Electronics and Communication Engineering,OBC NCL,6734,6642
+nit-patna,2022,Electronics and Communication Engineering,SC,4168,3351
+nit-patna,2022,Electronics and Communication Engineering,ST,2850,1109
+nit-patna,2022,Mechanical Engineering,OPEN,37677,38480
+nit-patna,2022,Mechanical Engineering,EWS,5890,5896
+nit-patna,2022,Mechanical Engineering,OBC NCL,12720,12524
+nit-patna,2022,Mechanical Engineering,SC,7281,5679
+nit-patna,2022,Mechanical Engineering,ST,4095,2058
+nit-patna,2022,Architecture,OPEN,3544,1134
+nit-patna,2022,Architecture,EWS,485,393
+nit-patna,2022,Architecture,OBC NCL,1446,616
+nit-patna,2022,Architecture,SC,695,336
+nit-surathkal,2022,Artificial Intelligence,Open (N.A.),4377,2677
+nit-surathkal,2022,Artificial Intelligence,EWS,1901,349
+nit-surathkal,2022,Artificial Intelligence,OBC-NCL (N.A.),3784,963
+nit-surathkal,2022,Artificial Intelligence,SC,1705,330
+nit-surathkal,2022,Artificial Intelligence,ST,326,151
+nit-surathkal,2022,Chemical Engineering,Open (N.A.),20862,15511
+nit-surathkal,2022,Chemical Engineering,EWS,4806,2424
+nit-surathkal,2022,Chemical Engineering,OBC-NCL (N.A.),12772,5931
+nit-surathkal,2022,Chemical Engineering,SC,6013,2870
+nit-surathkal,2022,Chemical Engineering,ST,1436,638
+nit-surathkal,2022,Civil Engineering,Open (N.A.),33765,22886
+nit-surathkal,2022,Civil Engineering,Open (PwD),372,460
+nit-surathkal,2022,Civil Engineering,EWS,5989,3566
+nit-surathkal,2022,Civil Engineering,OBC-NCL (N.A.),17808,7381
+nit-surathkal,2022,Civil Engineering,SC (N.A.),7217,2894
+nit-surathkal,2022,Civil Engineering,ST,1988,789
+nit-surathkal,2022,Computer Science and Engineering,Open (N.A.),2957,1689
+nit-surathkal,2022,Computer Science and Engineering,EWS (N.A.),1173,247
+nit-surathkal,2022,Computer Science and Engineering,OBC-NCL (N.A.),1992,444
+nit-surathkal,2022,Computer Science and Engineering,SC (N.A.),1310,141
+nit-surathkal,2022,Computer Science and Engineering,ST,269,54
+nit-surathkal,2022,Electronics and Communication Engineering,Open (N.A.),6612,5179
+nit-surathkal,2022,Electronics and Communication Engineering,EWS (N.A.),2630,841
+nit-surathkal,2022,Electronics and Communication Engineering,OBC-NCL (N.A.),4510,1566
+nit-surathkal,2022,Electronics and Communication Engineering,SC,2284,718
+nit-surathkal,2022,Electronics and Communication Engineering,ST (N.A.),562,214
+nit-surathkal,2022,Mechanical Engineering,Open (N.A.),16161,12255
+nit-surathkal,2022,Mechanical Engineering,Open (PwD),902,340
+nit-surathkal,2022,Mechanical Engineering,EWS (N.A.),4775,2206
+nit-surathkal,2022,Mechanical Engineering,OBC-NCL (N.A.),8995,4629
+nit-surathkal,2022,Mechanical Engineering,OBC-NCL (PwD),394,372
+nit-surathkal,2022,Mechanical Engineering,SC,4781,2416
+nit-surathkal,2022,Mechanical Engineering,ST,1373,717
+nit-surathkal,2022,Metallurgical and Materials Engineering,Open (N.A.),29315,22615
+nit-surathkal,2022,Metallurgical and Materials Engineering,Open (PwD),775,1290
+nit-surathkal,2022,Metallurgical and Materials Engineering,EWS,6941,3371
+nit-surathkal,2022,Metallurgical and Materials Engineering,OBC-NCL (N.A.),18528,8303
+nit-surathkal,2022,Metallurgical and Materials Engineering,SC,7118,3812
+nit-surathkal,2022,Metallurgical and Materials Engineering,ST,2092,1204
+nit-surathkal,2022,Mining Engineering,Open (N.A.),46108,27100
+nit-surathkal,2022,Mining Engineering,EWS,8999,4665
+nit-surathkal,2022,Mining Engineering,OBC-NCL,19772,9917
+nit-surathkal,2022,Mining Engineering,SC,8489,4239
+nit-surathkal,2022,Mining Engineering,ST,2179,1393
+nit-surathkal,2022,Electrical and Electronics Engineering,Open (N.A.),9534,7316
+nit-surathkal,2022,Electrical and Electronics Engineering,EWS,3106,1359
+nit-surathkal,2022,Electrical and Electronics Engineering,OBC-NCL (N.A.),6505,2889
+nit-surathkal,2022,Electrical and Electronics Engineering,OBC-NCL (PwD),148,191
+nit-surathkal,2022,Electrical and Electronics Engineering,SC,2918,1204
+nit-surathkal,2022,Electrical and Electronics Engineering,ST,674,454
+nit-surathkal,2022,Information Technology,Open (N.A.),3979,2882
+nit-surathkal,2022,Information Technology,Open (PwD),125,69
+nit-surathkal,2022,Information Technology,EWS,1760,444
+nit-surathkal,2022,Information Technology,OBC-NCL (N.A.),3427,816
+nit-surathkal,2022,Information Technology,SC,1653,310
+nit-surathkal,2022,Information Technology,ST (N.A.),295,132
+nit-surathkal,2022,Computational and Data Science,Open (N.A.),4906,3763
+nit-surathkal,2022,Computational and Data Science,EWS,1974,450
+nit-surathkal,2022,Computational and Data Science,OBC-NCL,4058,1376
+nit-surathkal,2022,Computational and Data Science,SC,2580,705
+nit-surathkal,2022,Computational and Data Science,ST,448,162
+nit-andhra-pradesh,2022,Bio Technology,Open,59346,55101
+nit-andhra-pradesh,2022,Bio Technology,EWS,8850,8563
+nit-andhra-pradesh,2022,Bio Technology,OBC-NCL,17758,16252
+nit-andhra-pradesh,2022,Bio Technology,SC,7501,8077
+nit-andhra-pradesh,2022,Bio Technology,ST,3248,2397
+nit-andhra-pradesh,2022,Chemical Engineering,Open,52908,46908
+nit-andhra-pradesh,2022,Chemical Engineering,EWS,7921,7527
+nit-andhra-pradesh,2022,Chemical Engineering,OBC-NCL,16645,14813
+nit-andhra-pradesh,2022,Chemical Engineering,SC,8563,7067
+nit-andhra-pradesh,2022,Chemical Engineering,ST,2578,1963
+nit-andhra-pradesh,2022,Civil Engineering,Open,52709,50813
+nit-andhra-pradesh,2022,Civil Engineering,EWS,8327,7710
+nit-andhra-pradesh,2022,Civil Engineering,OBC-NCL,16817,15465
+nit-andhra-pradesh,2022,Civil Engineering,SC,7113,7068
+nit-andhra-pradesh,2022,Civil Engineering,ST,2562,2231
+nit-andhra-pradesh,2022,Computer Science and Engineering,Open,15741,18205
+nit-andhra-pradesh,2022,Computer Science and Engineering,EWS,2511,2745
+nit-andhra-pradesh,2022,Computer Science and Engineering,OBC-NCL,5126,5828
+nit-andhra-pradesh,2022,Computer Science and Engineering,SC,2256,2789
+nit-andhra-pradesh,2022,Computer Science and Engineering,ST,723,642
+nit-andhra-pradesh,2022,Electronics and Communication Engineering,Open,23666,26163
+nit-andhra-pradesh,2022,Electronics and Communication Engineering,EWS,3658,4739
+nit-andhra-pradesh,2022,Electronics and Communication Engineering,OBC-NCL,7296,8819
+nit-andhra-pradesh,2022,Electronics and Communication Engineering,SC,3179,4206
+nit-andhra-pradesh,2022,Electronics and Communication Engineering,ST,1315,1275
+nit-andhra-pradesh,2022,Mechanical Engineering,Open,45802,43673
+nit-andhra-pradesh,2022,Mechanical Engineering,EWS,7103,7026
+nit-andhra-pradesh,2022,Mechanical Engineering,OBC-NCL,14332,14464
+nit-andhra-pradesh,2022,Mechanical Engineering,SC,7088,6795
+nit-andhra-pradesh,2022,Mechanical Engineering,ST,2519,2334
+nit-andhra-pradesh,2022,Metallurgical and Materials Engineering,Open,57886,51926
+nit-andhra-pradesh,2022,Metallurgical and Materials Engineering,EWS,8684,7660
+nit-andhra-pradesh,2022,Metallurgical and Materials Engineering,OBC-NCL,17784,15758
+nit-andhra-pradesh,2022,Metallurgical and Materials Engineering,SC,7818,7794
+nit-andhra-pradesh,2022,Metallurgical and Materials Engineering,ST,3423,2342
+nit-andhra-pradesh,2022,Electrical and Electronics Engineering,Open,34414,35819
+nit-andhra-pradesh,2022,Electrical and Electronics Engineering,EWS,5448,5538
+nit-andhra-pradesh,2022,Electrical and Electronics Engineering,OBC-NCL,10771,11661
+nit-andhra-pradesh,2022,Electrical and Electronics Engineering,SC,5315,5530
+nit-andhra-pradesh,2022,Electrical and Electronics Engineering,ST,2114,1801
+mnit-jaipur,2022,Chemical Engineering,OPEN,29037,25860
+mnit-jaipur,2022,Chemical Engineering,EWS,4608,3864
+mnit-jaipur,2022,Chemical Engineering,OBC NCL,9052,9656
+mnit-jaipur,2022,Chemical Engineering,SC,4679,4866
+mnit-jaipur,2022,Chemical Engineering,ST,1739,2276
+mnit-jaipur,2022,Civil Engineering,OPEN,30422,32584
+mnit-jaipur,2022,Civil Engineering,EWS,4819,5656
+mnit-jaipur,2022,Civil Engineering,OBC NCL,10638,10922
+mnit-jaipur,2022,Civil Engineering,SC,3853,4019
+mnit-jaipur,2022,Civil Engineering,ST,623,1369
+mnit-jaipur,2022,Computer Science and Engineering,OPEN,5610,4631
+mnit-jaipur,2022,Computer Science and Engineering,EWS,869,738
+mnit-jaipur,2022,Computer Science and Engineering,OBC NCL,1758,1514
+mnit-jaipur,2022,Computer Science and Engineering,SC,824,757
+mnit-jaipur,2022,Computer Science and Engineering,ST,327,223
+mnit-jaipur,2022,Electrical Engineering,OPEN,16885,16172
+mnit-jaipur,2022,Electrical Engineering,EWS,2626,2469
+mnit-jaipur,2022,Electrical Engineering,OBC NCL,5587,5275
+mnit-jaipur,2022,Electrical Engineering,SC,2787,2704
+mnit-jaipur,2022,Electrical Engineering,ST,618,1146
+mnit-jaipur,2022,Electronics and Communication Engineering,OPEN,10555,9470
+mnit-jaipur,2022,Electronics and Communication Engineering,EWS,1611,1452
+mnit-jaipur,2022,Electronics and Communication Engineering,OBC NCL,3645,3325
+mnit-jaipur,2022,Electronics and Communication Engineering,SC,2137,1738
+mnit-jaipur,2022,Electronics and Communication Engineering,ST,554,462
+mnit-jaipur,2022,Mechanical Engineering,OPEN,22831,21909
+mnit-jaipur,2022,Mechanical Engineering,EWS,3688,3416
+mnit-jaipur,2022,Mechanical Engineering,OBC NCL,7533,7877
+mnit-jaipur,2022,Mechanical Engineering,SC,3276,4240
+mnit-jaipur,2022,Mechanical Engineering,ST,1283,1352
+mnit-jaipur,2022,Metallurgical and Materials Engineering,OPEN,41069,38962
+mnit-jaipur,2022,Metallurgical and Materials Engineering,EWS,6574,5977
+mnit-jaipur,2022,Metallurgical and Materials Engineering,OBC NCL,14598,13489
+mnit-jaipur,2022,Metallurgical and Materials Engineering,SC,6897,6348
+mnit-jaipur,2022,Metallurgical and Materials Engineering,ST,3062,2641
+mnit-jaipur,2022,Architecture,OPEN,1389,732
+mnit-jaipur,2022,Architecture,EWS,439,211
+mnit-jaipur,2022,Architecture,OBC NCL,1118,448
+mnit-jaipur,2022,Architecture,SC,613,247
+mnit-jaipur,2022,Architecture,ST,94,115
+svnit-surat,2022,Chemical Engineering,OPEN (N.A.),43546,34976
+svnit-surat,2022,Chemical Engineering,OPEN (PwD),785,1390
+svnit-surat,2022,Chemical Engineering,EWS,7803,5342
+svnit-surat,2022,Chemical Engineering,OBC NCL,21701,12153
+svnit-surat,2022,Chemical Engineering,SC,12291,5982
+svnit-surat,2022,Chemical Engineering,ST,4914,1980
+svnit-surat,2022,Civil Engineering,OPEN (N.A.),56756,41528
+svnit-surat,2022,Civil Engineering,EWS (N.A.),9800,6236
+svnit-surat,2022,Civil Engineering,OBC NCL (N.A.),26299,12473
+svnit-surat,2022,Civil Engineering,SC,23054,5671
+svnit-surat,2022,Civil Engineering,ST,2475,1424
+svnit-surat,2022,Computer Science and Engineering,OPEN (N.A.),7522,6677
+svnit-surat,2022,Computer Science and Engineering,OPEN (PwD,119,201
+svnit-surat,2022,Computer Science and Engineering,EWS,1338,931
+svnit-surat,2022,Computer Science and Engineering,OBC NCL (N.A.),3982,2101
+svnit-surat,2022,Computer Science and Engineering,SC (N.A.),1878,973
+svnit-surat,2022,Computer Science and Engineering,ST,702,313
+svnit-surat,2022,Electrical Engineering,OPEN (N.A.),27369,20718
+svnit-surat,2022,Electrical Engineering,EWS,4894,3193
+svnit-surat,2022,Electrical Engineering,OBC NCL (N.A.),12295,6728
+svnit-surat,2022,Electrical Engineering,SC,7332,3539
+svnit-surat,2022,Electrical Engineering,ST,3231,1151
+svnit-surat,2022,Electronics and Communication Engineering,OPEN (N.A.),17510,13606
+svnit-surat,2022,Electronics and Communication Engineering,OPEN (PwD),148,470
+svnit-surat,2022,Electronics and Communication Engineering,EWS,3081,2117
+svnit-surat,2022,Electronics and Communication Engineering,OBC NCL (N.A.),8901,4549
+svnit-surat,2022,Electronics and Communication Engineering,OBC NCL (PwD),560,273
+svnit-surat,2022,Electronics and Communication Engineering,SC,6360,2393
+svnit-surat,2022,Electronics and Communication Engineering,ST (N.A.),3129,763
+svnit-surat,2022,Mechanical Engineering,OPEN (N.A.),37157,30373
+svnit-surat,2022,Mechanical Engineering,OPEN (PwD),1540,1502
+svnit-surat,2022,Mechanical Engineering,EWS,7618,4641
+svnit-surat,2022,Mechanical Engineering,OBC NCL (N.A.),17949,10358
+svnit-surat,2022,Mechanical Engineering,SC (N.A.),14292,5115
+svnit-surat,2022,Mechanical Engineering,ST,4009,1941
+svnit-surat,2022,Mathematics,OPEN (N.A.),85967,53412
+svnit-surat,2022,Mathematics,EWS,13648,8284
+svnit-surat,2022,Mathematics,OBC NCL,88400,16987
+svnit-surat,2022,Mathematics,SC,27267,8714
+svnit-surat,2022,Mathematics,ST,9967,3791
+svnit-surat,2022,Physics,OPEN (N.A.),101132,48611
+svnit-surat,2022,Physics,EWS,18943,7950
+svnit-surat,2022,Physics,OBC NCL,82205,17267
+svnit-surat,2022,Physics,SC,35792,8832
+svnit-surat,2022,Physics,ST,9905,3960
+nit-trichy,2022,Architecture,Open,797,248
+nit-trichy,2022,Architecture,EWS,661,129
+nit-trichy,2022,Architecture,OBC-NCL,330,234
+nit-trichy,2022,Architecture,SC,194,72
+nit-trichy,2022,Architecture,ST,352,14
+nit-trichy,2022,Chemical Engineering,Open,21225,15269
+nit-trichy,2022,Chemical Engineering,EWS,26606,2314
+nit-trichy,2022,Chemical Engineering,OBC-NCL,6365,5733
+nit-trichy,2022,Chemical Engineering,SC,5812,2808
+nit-trichy,2022,Chemical Engineering,ST,9433,511
+nit-trichy,2022,Civil Engineering,Open,37038,19611
+nit-trichy,2022,Civil Engineering,EWS,42318,3281
+nit-trichy,2022,Civil Engineering,OBC-NCL,12093,6843
+nit-trichy,2022,Civil Engineering,SC,6089,2559
+nit-trichy,2022,Civil Engineering,ST,5285,399
+nit-trichy,2022,Computer Science and Engineering,Open,4080,996
+nit-trichy,2022,Computer Science and Engineering,EWS,6588,176
+nit-trichy,2022,Computer Science and Engineering,OBC-NCL,1546,367
+nit-trichy,2022,Computer Science and Engineering,SC,1261,61
+nit-trichy,2022,Computer Science and Engineering,ST,1170,23
+nit-trichy,2022,Electrical and Electronics Engineering,Open,12142,6636
+nit-trichy,2022,Electrical and Electronics Engineering,EWS,9145,1123
+nit-trichy,2022,Electrical and Electronics Engineering,OBC-NCL,3566,2520
+nit-trichy,2022,Electrical and Electronics Engineering,SC,3202,1060
+nit-trichy,2022,Electrical and Electronics Engineering,ST,3301,307
+nit-trichy,2022,Electronics and Communication Engineering (,Open,8392,3691
+nit-trichy,2022,Electronics and Communication Engineering (,EWS,7448,614
+nit-trichy,2022,Electronics and Communication Engineering (,OBC-NCL,2413,1409
+nit-trichy,2022,Electronics and Communication Engineering (,SC,2257,406
+nit-trichy,2022,Electronics and Communication Engineering (,ST,2193,205
+nit-trichy,2022,Instrumentation and Control Engineering (,Open,17704,13820
+nit-trichy,2022,Instrumentation and Control Engineering (,EWS,15152,2512
+nit-trichy,2022,Instrumentation and Control Engineering (,OBC-NCL,5341,5351
+nit-trichy,2022,Instrumentation and Control Engineering (,SC,5448,2450
+nit-trichy,2022,Instrumentation and Control Engineering (,ST,9450,1067
+nit-trichy,2022,Mechanical Engineering,Open,16341,10181
+nit-trichy,2022,Mechanical Engineering,EWS,17569,1855
+nit-trichy,2022,Mechanical Engineering,OBC-NCL,5740,4098
+nit-trichy,2022,Mechanical Engineering,SC,3698,1799
+nit-trichy,2022,Mechanical Engineering,ST,5389,458
+nit-trichy,2022,Metallurgical and Materials Engineering,Open,33757,22850
+nit-trichy,2022,Metallurgical and Materials Engineering,EWS,51938,3603
+nit-trichy,2022,Metallurgical and Materials Engineering,OBC-NCL,9657,7805
+nit-trichy,2022,Metallurgical and Materials Engineering,SC,7002,3644
+nit-trichy,2022,Metallurgical and Materials Engineering,ST,10272,1174
+nit-trichy,2022,Production Engineering,Open,27154,25823
+nit-trichy,2022,Production Engineering,EWS,34504,4575
+nit-trichy,2022,Production Engineering,OBC-NCL,8459,9345
+nit-trichy,2022,Production Engineering,SC,6834,3986
+nit-trichy,2022,Production Engineering,ST,10064,1364
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Bio-Technology,Open,111124,48939
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Bio-Technology,EWS,21278,7364
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Bio-Technology,OBC-NCL,73949,15242
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Bio-Technology,SC,15376,7401
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Chemical Engineering,Open,73857,41703
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Chemical Engineering,EWS,13116,6291
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Chemical Engineering,OBC-NCL,57562,13237
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Chemical Engineering,SC,10976,6472
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Civil Engineering,Open,76829,43842
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Civil Engineering,EWS,15594,6514
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Civil Engineering,OBC-NCL,48988,13519
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Civil Engineering,SC,11032,5882
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Computer Science and Engineering,Open,13287,10239
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Computer Science and Engineering,EWS,2677,1488
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Computer Science and Engineering,OBC-NCL,10025,3095
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Computer Science and Engineering,SC,3006,1292
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Computer Science and Engineering,ST,4769,414
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electrical Engineering,Open,33865,22643
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electrical Engineering,EWS,6731,3422
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electrical Engineering,OBC-NCL,22968,7144
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electrical Engineering,SC,7125,3680
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electronics and Communication Engineering,Open,22388,15861
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electronics and Communication Engineering,EWS,4541,2405
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electronics and Communication Engineering,OBC-NCL,19585,5220
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electronics and Communication Engineering,SC,5638,2530
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Electronics and Communication Engineering,ST,4913,853
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Mechanical Engineering,Open,55635,34280
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Mechanical Engineering,EWS,10032,5214
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Mechanical Engineering,OBC-NCL,32289,11590
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Mechanical Engineering,SC,9069,5203
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Textile Technology,Open,117715,52827
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Textile Technology,EWS,22316,7834
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Textile Technology,OBC-NCL,160583,15950
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Textile Technology,SC,15450,8058
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Information Technology,Open,18657,11870
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Information Technology,EWS,3799,1761
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Information Technology,OBC-NCL,16573,3641
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Information Technology,SC,3914,2035
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Information Technology,ST,11703,711
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Instrumentation and Control Engineering,Open,52773,33012
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Instrumentation and Control Engineering,EWS,9430,5176
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Instrumentation and Control Engineering,OBC-NCL,38255,11427
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Instrumentation and Control Engineering,SC,9439,5503
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Industrial and Production Engineering,Open,99013,47051
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Industrial and Production Engineering,EWS,17210,7234
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Industrial and Production Engineering,OBC-NCL,130478,14373
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Industrial and Production Engineering,SC,13388,7271
+https://engineering.careers360.com/articles/jee-main-cutoff-nit-jalandhar,2022,Industrial and Production Engineering,ST,18657,2812
+mnnit-allahabad,2022,Civil Engineering,OPEN,25632,23792
+mnnit-allahabad,2022,Civil Engineering,EWS,3966,3356
+mnnit-allahabad,2022,Civil Engineering,OBC NCL,8585,7820
+mnnit-allahabad,2022,Civil Engineering,SC,4260,4847
+mnnit-allahabad,2022,Civil Engineering,ST,2744,1657
+mnnit-allahabad,2022,Electrical Engineering,OPEN,11749,12832
+mnnit-allahabad,2022,Electrical Engineering,EWS,1886,1935
+mnnit-allahabad,2022,Electrical Engineering,OBC NCL,4053,4400
+mnnit-allahabad,2022,Electrical Engineering,SC,2120,2673
+mnnit-allahabad,2022,Electrical Engineering,ST,2093,737
+mnnit-allahabad,2022,Mechanical Engineering,OPEN,19151,20976
+mnnit-allahabad,2022,Mechanical Engineering,EWS,2766,3201
+mnnit-allahabad,2022,Mechanical Engineering,OBC NCL,6566,7211
+mnnit-allahabad,2022,Mechanical Engineering,SC,3317,3936
+mnnit-allahabad,2022,Mechanical Engineering,ST,2943,1613
+mnnit-allahabad,2022,Electronics and Communication Engineering,OPEN,8792,9165
+mnnit-allahabad,2022,Electronics and Communication Engineering,EWS,1285,1515
+mnnit-allahabad,2022,Electronics and Communication Engineering,OBC NCL,3123,3030
+mnnit-allahabad,2022,Electronics and Communication Engineering,SC,1571,1689
+mnnit-allahabad,2022,Electronics and Communication Engineering,ST,2403,539
+mnnit-allahabad,2022,Computer Science and Engineering,OPEN,5627,4254
+mnnit-allahabad,2022,Computer Science and Engineering,EWS,907,701
+mnnit-allahabad,2022,Computer Science and Engineering,OBC NCL,2081,1305
+mnnit-allahabad,2022,Computer Science and Engineering,SC,867,634
+mnnit-allahabad,2022,Computer Science and Engineering,ST,942,209
+mnnit-allahabad,2022,Chemical Engineering,OPEN,24758,23792
+mnnit-allahabad,2022,Chemical Engineering,EWS,3556,3356
+mnnit-allahabad,2022,Chemical Engineering,OBC NCL,8210,7820
+mnnit-allahabad,2022,Chemical Engineering,SC,3947,4847
+mnnit-allahabad,2022,Chemical Engineering,ST,3081,1657
+mnnit-allahabad,2022,Production and Industrial Engineering,OPEN,29625,31416
+mnnit-allahabad,2022,Production and Industrial Engineering,EWS,4265,4768
+mnnit-allahabad,2022,Production and Industrial Engineering,OBC NCL,9717,11569
+mnnit-allahabad,2022,Production and Industrial Engineering,SC,5366,6253
+mnnit-allahabad,2022,Production and Industrial Engineering,ST,4117,2209
+mnnit-allahabad,2022,Biotechnology Engineering,OPEN,32997,33152
+mnnit-allahabad,2022,Biotechnology Engineering,EWS,5093,5363
+mnnit-allahabad,2022,Biotechnology Engineering,OBC NCL,11059,12137
+mnnit-allahabad,2022,Biotechnology Engineering,SC,4867,5909
+mnnit-allahabad,2022,Biotechnology Engineering,ST,3999,2480
+nit-silchar,2022,Civil Engineering,Open,64892,46199
+nit-silchar,2022,Civil Engineering,EWS,10537,6877
+nit-silchar,2022,Civil Engineering,OBC-NCL,37507,14208
+nit-silchar,2022,Civil Engineering,SC,10392,6606
+nit-silchar,2022,Civil Engineering,ST,3084,1576
+nit-silchar,2022,Computer Science and Engineering,Open,25022,10898
+nit-silchar,2022,Computer Science and Engineering,EWS,5298,1538
+nit-silchar,2022,Computer Science and Engineering,OBC-NCL,14298,3408
+nit-silchar,2022,Computer Science and Engineering,SC,3327,1598
+nit-silchar,2022,Computer Science and Engineering,ST,1467,318
+nit-silchar,2022,Electrical Engineering,Open,51080,26952
+nit-silchar,2022,Electrical Engineering,EWS,8368,4276
+nit-silchar,2022,Electrical Engineering,OBC-NCL,29687,8662
+nit-silchar,2022,Electrical Engineering,SC,7662,3973
+nit-silchar,2022,Electrical Engineering,ST,2835,1415
+nit-silchar,2022,Electronics and Communication Engineering,Open,33116,17923
+nit-silchar,2022,Electronics and Communication Engineering,EWS,6028,2596
+nit-silchar,2022,Electronics and Communication Engineering,OBC-NCL,19335,5161
+nit-silchar,2022,Electronics and Communication Engineering,SC,5271,2676
+nit-silchar,2022,Electronics and Communication Engineering,ST,1912,835
+nit-silchar,2022,Mechanical Engineering,Open,59377,34989
+nit-silchar,2022,Mechanical Engineering,EWS,9558,5732
+nit-silchar,2022,Mechanical Engineering,OBC-NCL,32395,11450
+nit-silchar,2022,Mechanical Engineering,SC,8786,5545
+nit-silchar,2022,Mechanical Engineering,ST,2967,1957
+nit-silchar,2022,Electronics and Instrumentation Engineering,Open,46004,23094
+nit-silchar,2022,Electronics and Instrumentation Engineering,EWS,7417,3400
+nit-silchar,2022,Electronics and Instrumentation Engineering,OBC-NCL,26274,7889
+nit-silchar,2022,Electronics and Instrumentation Engineering,SC,7322,3751
+nit-silchar,2022,Electronics and Instrumentation Engineering,ST,2577,1519
+nit-rourkela,2022,Architecture,OPEN,1285,622
+nit-rourkela,2022,Architecture,EWS,101,231
+nit-rourkela,2022,Architecture,OBC-NCL,832,375
+nit-rourkela,2022,Architecture,SC,205,123
+nit-rourkela,2022,Architecture,ST,131,43
+nit-rourkela,2022,BioMedical Engineering,OPEN,48726,37093
+nit-rourkela,2022,BioMedical Engineering,EWS,9255,5994
+nit-rourkela,2022,BioMedical Engineering,OBC-NCL,20123,12960
+nit-rourkela,2022,BioMedical Engineering,SC,9489,6330
+nit-rourkela,2022,BioMedical Engineering,ST,3427,1420
+nit-rourkela,2022,BioTechnology,OPEN (N.A.),41308,30887
+nit-rourkela,2022,BioTechnology,OPEN (PwD),1878,1974
+nit-rourkela,2022,BioTechnology,EWS,7386,5245
+nit-rourkela,2022,BioTechnology,OBC-NCL,17390,11356
+nit-rourkela,2022,BioTechnology,SC,8605,4639
+nit-rourkela,2022,BioTechnology,ST,2205,1649
+nit-rourkela,2022,Ceramic Engineering,OPEN,45215,39652
+nit-rourkela,2022,Ceramic Engineering,EWS,9359,6047
+nit-rourkela,2022,Ceramic Engineering,OBC-NCL,17723,13023
+nit-rourkela,2022,Ceramic Engineering,SC,12430,6400
+nit-rourkela,2022,Ceramic Engineering,ST,3411,2051
+nit-rourkela,2022,Ceramic Engineering and M.Tech Industrial Ceramic,OPEN,56106,43625
+nit-rourkela,2022,Ceramic Engineering and M.Tech Industrial Ceramic,OBC-NCL,19900,14768
+nit-rourkela,2022,Ceramic Engineering and M.Tech Industrial Ceramic,SC,15813,7216
+nit-rourkela,2022,"Chemical Engineering (5 Years, bachelor and Master of Technology (Dual Degree)",OPEN,38258,31369
+nit-rourkela,2022,"Chemical Engineering (5 Years, bachelor and Master of Technology (Dual Degree)",OBC-NCL,14632,8822
+nit-rourkela,2022,"Chemical Engineering (5 Years, bachelor and Master of Technology (Dual Degree)",SC,6304,4377
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",OPEN (N.A.),23632,20120
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",OPEN (PwD),1085,886
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",EWS,4842,3313
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",OBC-NCL,12186,6930
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",SC,5947,3543
+nit-rourkela,2022,"Chemical Engineering (4 years, Bachelor of Technology",ST,2161,1152
+nit-rourkela,2022,"Chemistry Engineering (5 Years, Integrated Master)",OPEN,66587,44648
+nit-rourkela,2022,"Chemistry Engineering (5 Years, Integrated Master)",EWS,11425,6679
+nit-rourkela,2022,"Chemistry Engineering (5 Years, Integrated Master)",OBC-NCL,26162,16098
+nit-rourkela,2022,"Chemistry Engineering (5 Years, Integrated Master)",SC,14319,6347
+nit-rourkela,2022,"Chemistry Engineering (5 Years, Integrated Master)",ST,7224,2010
+nit-rourkela,2022,Civil Engineering,OPEN (N.A.),28479,26812
+nit-rourkela,2022,Civil Engineering,OPEN (PwD),1251,282
+nit-rourkela,2022,Civil Engineering,EWS,5639,4165
+nit-rourkela,2022,Civil Engineering,OBC-NCL (N.A.),11732,8989
+nit-rourkela,2022,Civil Engineering,OBC-NCL (PwD),538,384
+nit-rourkela,2022,Civil Engineering,SC,6240,3634
+nit-rourkela,2022,Civil Engineering,ST,1922,1021
+nit-rourkela,2022,Computer Science and Engineering,OPEN (N.A.),7686,2883
+nit-rourkela,2022,Computer Science and Engineering,OPEN (PwD),73,49
+nit-rourkela,2022,Computer Science and Engineering,EWS (N.A.),1920,473
+nit-rourkela,2022,Computer Science and Engineering,EWS (PwD),109,20
+nit-rourkela,2022,Computer Science and Engineering,OBC-NCL,4286,930
+nit-rourkela,2022,Computer Science and Engineering,SC (N.A.),1753,258
+nit-rourkela,2022,Computer Science and Engineering,ST,656,86
+nit-rourkela,2022,Electrical engineering,OPEN (N.A.),17580,12655
+nit-rourkela,2022,Electrical engineering,OPEN (PwD),548,554
+nit-rourkela,2022,Electrical engineering,EWS (N.A.),3747,1905
+nit-rourkela,2022,Electrical engineering,EWS (PwD),258,125
+nit-rourkela,2022,Electrical engineering,OBC-NCL (N.A.),8590,4127
+nit-rourkela,2022,Electrical engineering,OBC-NCL (PwD),283,293
+nit-rourkela,2022,Electrical engineering,SC (N.A.),3700,2066
+nit-rourkela,2022,Electrical engineering,ST (N.A.),1281,688
+nit-nagaland,2022,Female,23252,8539,68533
+nit-nagaland,2022,Female,15820,4708,36813
+nit-nagaland,2022,Female,16864,6250,48192
+nit-nagaland,2022,Female,22338,8216,65046
+nit-nagaland,2022,Female,21538,7547,49560
+nit-nagaland,2022,Female,20641,7724,54671
+nit-arunachal-pradesh,2022,Civil Engineering,OPEN,185207,55417
+nit-arunachal-pradesh,2022,Civil Engineering,OBC NCL,100777,16308
+nit-arunachal-pradesh,2022,Civil Engineering,SC,27157,8067
+nit-arunachal-pradesh,2022,Civil Engineering,ST,5286,2202
+nit-arunachal-pradesh,2022,Computer Science and Engineering,OPEN,122748,25609
+nit-arunachal-pradesh,2022,Computer Science and Engineering,OBC NCL,56617,8172
+nit-arunachal-pradesh,2022,Computer Science and Engineering,SC,16155,3161
+nit-arunachal-pradesh,2022,Computer Science and Engineering,ST,7918,1136
+nit-arunachal-pradesh,2022,Electrical Engineering,OPEN,200935,44246
+nit-arunachal-pradesh,2022,Electrical Engineering,OBC NCL,69969,13168
+nit-arunachal-pradesh,2022,Electrical Engineering,ST,10110,2439
+nit-arunachal-pradesh,2022,Electronics and Communication,OPEN,158048,34837
+nit-arunachal-pradesh,2022,Electronics and Communication,OBC NCL,65920,10289
+nit-arunachal-pradesh,2022,Electronics and Communication,SC,18255,5171
+nit-arunachal-pradesh,2022,Electronics and Communication,ST,14115,1772
+nit-arunachal-pradesh,2022,Mechanical Engineering,OPEN,238400,50451
+nit-arunachal-pradesh,2022,Mechanical Engineering,OBC NCL,101499,15200
+nit-arunachal-pradesh,2022,Mechanical Engineering,SC,31269,7366
+nit-arunachal-pradesh,2022,Mechanical Engineering,ST,14303,860
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",Open (N.A.),686,885
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",Open (PwD),86,66
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",EWS,233,326
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",OBC NCL,428,473
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",SC,149,233
+vnit-nagpur,2022,"Architecture (5 Years, Bachelor of Architecture)",ST,108,146
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",Open (N.A.),35148,31771
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",Open (PwD),565,1311
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",EWS (N.A.),5182,4678
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),11616,10542
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",SC,4612,5677
+vnit-nagpur,2022,"Chemical Engineering (4 Years, Bachelor of Technology)",ST,3586,1840
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",Open (N.A.),42633,38128
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",Open (PwD),1056,1355
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",EWS (N.A.),6686,5718
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",EWS (PwD),224,158
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),14062,11774
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",SC (N.A.),5327,5147
+vnit-nagpur,2022,"Civil Engineering (4 Years, Bachelor of Technology)",ST (N.A.),2144,1080
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",Open (N.A.),6613,5642
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",Open (PwD),158,151
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",EWS (N.A.),1005,815
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),2242,1627
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",OBC NCL (PwD),86,66
+vnit-nagpur,2022,"Computer Science and Engineering (4 Years, Bachelor of Technology)",SC (N.A.),880,526
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",Open (N.A.),16972,17067
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",Open (PwD),1067,514
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",EWS (N.A.),2750,2551
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),5929,5660
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",OBC NCL(PwD),447,379
+vnit-nagpur,2022,"Electrical and Electronics Engineering (4 Years, Bachelor of Technology)",SC (N.A.),2777,2750
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",Open (N.A.),11156,11131
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",Open (PwD),455,278
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",EWS,1866,1637
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),4182,3474
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",OBC NCL (PwD),169,109
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",SC,1866,1845
+vnit-nagpur,2022,"Electronic and Communication Engineering (4 Years, Bachelor of Technology)",ST,1257,323
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",Open (N.A.),23508,23541
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",Open (PwD),1021,1280
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",EWS,4374,3706
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",OBC NCL (N.A.),9080,8047
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",OBC NCL (PwD),523,612
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",SC,4081,3922
+vnit-nagpur,2022,"Mechanical Engineering (4 Years, Bachelor of Technology)",ST,2251,1206
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Open (N.A.),46088,43344
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",Open (PwD),1965,1985
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",EWS,7294,6639
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",OBC NCL,15514,13909
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",SC,6140,6850
+vnit-nagpur,2022,"Metallurgical and Materials Engineering (4 Years, Bachelor of Technology)",ST,3919,2149
+vnit-nagpur,2022,"Mining Engineering (4 Years, Bachelor of Technology)",Open,48730,45763
+vnit-nagpur,2022,"Mining Engineering (4 Years, Bachelor of Technology)",EWS,7502,7023
+vnit-nagpur,2022,"Mining Engineering (4 Years, Bachelor of Technology)",OBC NCL,15973,14716
+vnit-nagpur,2022,"Mining Engineering (4 Years, Bachelor of Technology)",SC,7833,6736
+vnit-nagpur,2022,"Mining Engineering (4 Years, Bachelor of Technology)",ST,3715,2513
+nit-warangal,2022,Bio-Technology,OPEN (N.A.),41522,29829
+nit-warangal,2022,Bio-Technology,OPEN (PwD),913,1973
+nit-warangal,2022,Bio-Technology,EWS (N.A.),6454,4951
+nit-warangal,2022,Bio-Technology,OBC-NCL (N.A.),13086,10634
+nit-warangal,2022,Bio-Technology,OBC-NCL (PwD),637,804
+nit-warangal,2022,Bio-Technology,SC,5876,4582
+nit-warangal,2022,Bio-Technology,ST,1335,1770
+nit-warangal,2022,Chemical Engineering,OPEN (N.A.),26414,20089
+nit-warangal,2022,Chemical Engineering,EWS (N.A.),4853,3052
+nit-warangal,2022,Chemical Engineering,OBC-NCL (N.A.),8265,6770
+nit-warangal,2022,Chemical Engineering,OBC-NCL (PwD),435,547
+nit-warangal,2022,Chemical Engineering,SC,4148,3127
+nit-warangal,2022,Chemical Engineering,ST,1098,1664
+nit-warangal,2022,"Chemistry (5 Years, Integrated Master of Science)",OPEN,56198,36789
+nit-warangal,2022,"Chemistry (5 Years, Integrated Master of Science)",OBC,17395,14489
+nit-warangal,2022,"Chemistry (5 Years, Integrated Master of Science)",SC,8195,7019
+nit-warangal,2022,"Chemistry (5 Years, Integrated Master of Science)",ST,2217,3830
+nit-warangal,2022,Civil Engineering,OPEN (N.A.),30199,25762
+nit-warangal,2022,Civil Engineering,OPEN (PwD),270,351
+nit-warangal,2022,Civil Engineering,EWS (N.A.),4618,3835
+nit-warangal,2022,Civil Engineering,OBC-NCL (N.A.),10690,8063
+nit-warangal,2022,Civil Engineering,OBC-NCL (PwD),282,424
+nit-warangal,2022,Civil Engineering,SC (N.A.),3553,3128
+nit-warangal,2022,Civil Engineering,ST,687,967
+nit-warangal,2022,Computer Science and Engineering,OPEN (N.A.),1996,2112
+nit-warangal,2022,Computer Science and Engineering,OPEN (PwD),116,55
+nit-warangal,2022,Computer Science and Engineering,EWS (N.A.),455,287
+nit-warangal,2022,Computer Science and Engineering,OBC-NCL (N.A.),924,662
+nit-warangal,2022,Computer Science and Engineering,SC (N.A.),261,206
+nit-warangal,2022,Computer Science and Engineering,ST,58,138
+nit-warangal,2022,Electrical and Electronics Engineering,OPEN (N.A),11585,9370
+nit-warangal,2022,Electrical and Electronics Engineering,EWS (N.A.),1854,1497
+nit-warangal,2022,Electrical and Electronics Engineering,OBC-NCL (N.A.),3423,3454
+nit-warangal,2022,Electrical and Electronics Engineering,SC (N.A.),1712,1430
+nit-warangal,2022,Electrical and Electronics Engineering,ST (N.A.),459,590
+nit-warangal,2022,Electronics and Communication Engineering,OPEN (N.A.),5927,6119
+nit-warangal,2022,Electronics and Communication Engineering,OPEN (PwD),184,126
+nit-warangal,2022,Electronics and Communication Engineering,EWS,1139,900
+nit-warangal,2022,Electronics and Communication Engineering,OBC-NCL (N.A.),1979,1943
+nit-warangal,2022,Electronics and Communication Engineering,SC (N.A.),845,813
+nit-warangal,2022,Electronics and Communication Engineering,ST (N.A.),259,240
+nit-warangal,2022,"Mathematics (5 years, Integrated Master of Science)",OPEN,42981,25256
+nit-warangal,2022,"Mathematics (5 years, Integrated Master of Science)",EWS,8546,4240
+nit-warangal,2022,"Mathematics (5 years, Integrated Master of Science)",OBC-NCL,15502,8511
+nit-warangal,2022,"Mathematics (5 years, Integrated Master of Science)",SC,7788,4616
+nit-warangal,2022,Metallurgical and Material Engineering,OPEN (N.A.),34175,26725
+nit-warangal,2022,Metallurgical and Material Engineering,OPEN (PwD),1027,1586
+nit-warangal,2022,Metallurgical and Material Engineering,EWS,5874,4448
+nit-warangal,2022,Metallurgical and Material Engineering,OBC-NCL (N.A.),11808,9291
+nit-warangal,2022,Metallurgical and Material Engineering,OBC-NCL (PwD),645,835
+nit-warangal,2022,Metallurgical and Material Engineering,SC,5840,4311
+nit-warangal,2022,Metallurgical and Material Engineering,ST,1385,2020
+nit-warangal,2022,"Physics (5 Years, Integrated Master of Science",OPEN (N.A.),41501,26534
+nit-warangal,2022,"Physics (5 Years, Integrated Master of Science",EWS,8171,6435
+nit-warangal,2022,"Physics (5 Years, Integrated Master of Science",OBC-NCL,17640,11965
+nit-warangal,2022,"Physics (5 Years, Integrated Master of Science",SC,7846,4758
+nit-srinagar,2022,Civil Engineering,Open,74142,56294
+nit-srinagar,2022,Civil Engineering,EWS,31006,8621
+nit-srinagar,2022,Civil Engineering,OBC-NCL,324323,16753
+nit-srinagar,2022,Civil Engineering,SC,21207,7826
+nit-srinagar,2022,Civil Engineering,ST,4816,2698
+nit-srinagar,2022,Computer Science and Engineering,Open,28058,22282
+nit-srinagar,2022,Computer Science and Engineering,EWS,11426,3366
+nit-srinagar,2022,Computer Science and Engineering,OBC-NCL,33621,6861
+nit-srinagar,2022,Computer Science and Engineering,SC,5781,2663
+nit-srinagar,2022,Computer Science and Engineering,ST,1702,974
+nit-srinagar,2022,Electronics and Communication Engineering,Open,46867,34383
+nit-srinagar,2022,Electronics and Communication Engineering,EWS,25389,5403
+nit-srinagar,2022,Electronics and Communication Engineering,OBC-NCL,180945,10274
+nit-srinagar,2022,Electronics and Communication Engineering,SC,11911,4877
+nit-srinagar,2022,Electronics and Communication Engineering,ST,4455,1851
+nit-srinagar,2022,Mechanical Engineering,Open,79171,48387
+nit-srinagar,2022,Mechanical Engineering,EWS,50611,7644
+nit-srinagar,2022,Mechanical Engineering,OBC-NCL,218961,15187
+nit-srinagar,2022,Mechanical Engineering,SC,21199,7024
+nit-srinagar,2022,Mechanical Engineering,ST,5777,2726
+nit-srinagar,2022,Information Technology,Open,40415,27989
+nit-srinagar,2022,Information Technology,EWS,14809,4399
+nit-srinagar,2022,Information Technology,OBC-NCL,75750,8420
+nit-srinagar,2022,Information Technology,SC,7729,3468
+nit-srinagar,2022,Information Technology,ST,3672,1198
+nit-srinagar,2022,Electrical Engineering,Open,67795,42188
+nit-srinagar,2022,Electrical Engineering,EWS,34317,6492
+nit-srinagar,2022,Electrical Engineering,OBC-NCL,70896,13448
+nit-srinagar,2022,Electrical Engineering,SC,19455,6710
+nit-srinagar,2022,Electrical Engineering,ST,6044,2016
+nit-srinagar,2022,Chemical Engineering,Open,88945,56532
+nit-srinagar,2022,Chemical Engineering,EWS,82460,8552
+nit-srinagar,2022,Chemical Engineering,OBC-NCL,248634,16468
+nit-srinagar,2022,Chemical Engineering,SC,33648,8285
+nit-srinagar,2022,Chemical Engineering,ST,7632,3003
+nit-srinagar,2022,Metallurgical and Materials Engineering,Open,94263,58636
+nit-srinagar,2022,Metallurgical and Materials Engineering,SC,39093,8474
+nit-srinagar,2022,Metallurgical and Materials Engineering,ST,9432,3128
+iiit-pune,2022,Computer Science and Engineering,OPEN,5336,15894
+iiit-pune,2022,Computer Science and Engineering,EWS,2232,2579
+iiit-pune,2022,Computer Science and Engineering,OBC NCL,4086,6001
+iiit-pune,2022,Computer Science and Engineering,SC,2031,3704
+iiit-pune,2022,Computer Science and Engineering,ST,693,1857
+iiit-pune,2022,Electronics and Communication Engineering,OPEN,16450,21546
+iiit-pune,2022,Electronics and Communication Engineering,EWS,3393,3466
+iiit-pune,2022,Electronics and Communication Engineering,OBC NCL,6033,8244
+iiit-pune,2022,Electronics and Communication Engineering,SC,4140,5367
+iiit-pune,2022,Electronics and Communication Engineering,ST,2142,2913
+iiit-nagpur,2022,Computer Science and Engineering,OPEN,13738,24793
+iiit-nagpur,2022,Computer Science and Engineering,EWS,3493,4084
+iiit-nagpur,2022,Computer Science and Engineering,OBC NCL,6656,9240
+iiit-nagpur,2022,Computer Science and Engineering,SC,3762,6239
+iiit-nagpur,2022,Computer Science and Engineering,ST,1940,3006
+iiit-nagpur,2022,Electronics and Communication Engineering,OPEN,27932,35878
+iiit-nagpur,2022,Electronics and Communication Engineering,EWS,5170,5727
+iiit-nagpur,2022,Electronics and Communication Engineering,OBC NCL,9718,12771
+iiit-nagpur,2022,Electronics and Communication Engineering,SC,6310,7953
+iiit-nagpur,2022,Electronics and Communication Engineering,ST,3111,3939
